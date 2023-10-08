@@ -4,7 +4,7 @@
 # 📚 Node stream foundation
 
 Hey **\<T\>**, I hope that you like this study about "node stream foundation"\
-that is reposable to deleiver a little pieces of data to optimize de data transaction\
+that is responsable to deleiver a little pieces of data to optimize de data transaction\
 making not nescessary wait all data arrive to save or handeling the information.
 
 ## 🎯 Goal
